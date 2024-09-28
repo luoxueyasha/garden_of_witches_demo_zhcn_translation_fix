@@ -1,0 +1,8 @@
+name,ko,en,ja,zh-cn,zh-tw,de,it,es-eu,fr
+AttackPower,기본 공격력,Base ATK,基本攻撃力,基础攻击力,基本攻擊力,Grund-ANG,ATT. base,ATQ básico,ATQ de base
+MaxHealth,최대 체력,Max HP,最大HP,体力上限,最大體力,Max. LP,PF massimi,PV máx.,PV max
+MoveSpeed,이동 속도,Move SPD,移動速度,移动速度,移動速度,Bewegungs-TMP,VEL. di movimento,VEL de movimiento,VIT de déplacement
+ScissorAttackCountPerSecond,가위 공격 속도,Scissor Attack SPD,ハサミ攻撃速度,剪刀攻击速度,剪刀攻擊速度,Scherenangriffs-TMP,VEL. d'attacco delle Forbici,VEL de ataque de tijeras,VIT d'attaque (Ciseaux)
+DashChargeAmount,대시 최대 충전 횟수,Dash Max Charge,ダッシュ最大チャージ回数,突进充能次数上限,猛衝最大蓄能次數,Max. Sprintladung,Carica massima dello Scatto,Carga máx. de embestida,Charge de ruée max
+DashCooltimeBase,대시 쿨타임,Dash Cooldown,ダッシュクールタイム,突进冷却时间,猛衝冷卻時間,Sprint-Abklingzeit,Tempo di recupero dello Scatto,Tiempo de recuperación de embestida,Recharge de ruée
+HealthRecoverPerFight,전투 종료시 체력 회복량,Post-Battle HP Recovery,バトル終了時のHP回復量,战斗结束后体力恢复,戰鬥結束後體力恢復量,LP-Erholung nach dem Kampf,Recupero dei PF post-battaglia,Recuperación de PV postcombate,PV récupérés après le combat

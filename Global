@@ -1,0 +1,119 @@
+name,ko,#참고사항,en,ja,zh-cn,zh-tw,de,it,es-eu,fr
+AchievementProgress,업적 진척도,결과창,Achievement Progress,実績進捗度,成就进度,成就進度,Erfolgsfortschritt,Progressi obiettivo,Progreso de logro,Progression des succès
+NewMagicUnlocked,새로운 마법 획득,결과창,New Spell Unlocked,新しい魔法を獲得,获得新魔法,獲得新魔法,Neuer Zauber freigeschaltet,Nuovo incantesimo sbloccato,Nuevo hechizo desbloqueado,Nouveau sort débloqué
+NewTagUnlocked,새로운 태그 획득,결과창,New Tag Unlocked,新しいタグを獲得,获得新标签,獲得新標籤,Neues Tag freigeschaltet,Nuovo tag sbloccato,Nueva etiqueta desbloqueada,Nouveau tag débloquée
+SaveSlot_Achievement,업적,메인화면 - 저장슬롯 선택,Achievement,実績,成就,成就,Erfolg,Obiettivo,Logro,Succès
+SaveSlot_Empty,빈 슬롯,메인화면 - 저장슬롯 선택,Empty Slot,空きスロット,空栏位,空欄位,Leerer Platz,Slot vuoto,Espacio vacío,Emplacement vide
+SaveSlot_SaveTime,마지막 저장 시간,메인화면 - 저장슬롯 선택,Last Saved,最後の保存時間,最后保存时间,最後儲存時間,Zuletzt gespeichert,Ultimo salvataggio,Último guardado,Dernière sauvegarde
+SaveSlots,저장 슬롯,메인화면 - 저장슬롯 선택,Save Slot,セーブスロット,保存栏位,儲存欄位,Speicherplatz,Slot di salvataggio,Espacio de guardado,Emplacement de sauvegarde
+Demo_Locked_Contents,데모에서는 공개되지 않은 컨텐츠입니다.,미공개 컨텐츠,Not available in demo version.,デモ版では未公開のコンテンツです。,该内容在试玩版中不公开。,尚未於試玩版中開放的內容。,In der Demo nicht verfügbar.,Non disponibile nella versione demo.,No disponible en la versión demo,Non disponible dans la version démo.
+Demo_Locked_NotAvailable,데모에서는 사용하실 수 없습니다.,미공개 컨텐츠,Not available in demo version.,デモ版では使用できません。,无法在试玩版中使用。,無法於試玩版中使用。,In der Demo nicht verfügbar.,Non disponibile nella versione demo.,No disponible en la versión demo,Non disponible dans la version démo.
+Locked_Magic,아직 발견되지 않은 마법입니다,미공개 컨텐츠,This Spell has not been discovered yet.,この魔法はまだ見つかっていません。,该魔法尚未被发现。,尚未探索的魔法。,Dieser Zauber wurde noch nicht entdeckt.,Non hai ancora scoperto questo incantesimo.,Todavía no se ha descubierto este hechizo.,Ce sort n'a pas encore été découvert.
+Cancel,취소,버튼,Cancel,取消,取消,取消,Abbrechen,Annulla,Cancelar,Annuler
+Continue,계속하기,버튼,Continue,続ける,继续,繼續,Weiter,Continua,Continuar,Continuer
+Delete,삭제,버튼,Delete,削除,删除,刪除,Löschen,Cancella,Borrar,Supprimer
+GiveUp,포기하기,버튼,Give Up,諦める,放弃,放棄,Aufgeben,Arrenditi,Abandonar,Abandonner
+GotoMenu,게임 종료,버튼,End Game,ゲーム終了,返回标题,結束遊戲,Spiel beenden,Termina gioco,Finalizar partida,Fin de partie
+Magic,마법,버튼,Spell,魔法,魔法,魔法,Zauber,Incantesimo,Hechizo,Sort
+Passive,패시브,버튼,Passive,パッシブ,被动,被動,Passiv,Passiva,Pasiva,Passif
+Pause,일시 정지,버튼,Pause,一時停止,暂停,暫停,Pause,Pausa,Pausa,Pause
+QuitGame,종료,버튼,Quit,終了,离开,關閉,Beende,Esci,Salir,Quitter
+Relic,수집품,버튼,Collection,収集品,收藏品,蒐藏品,Sammlung,Collezione,Colección,Collection
+Select,선택,버튼,Select,選択,选择,選擇,Auswählen,Seleziona,Seleccionar,Sélectionner
+Settings,설정,버튼,Settings,設定,设置,設定,Einstellungen,Impostazioni,Ajustes,Paramètres
+StartGame,시작,버튼,Start,スタート,开始,開始,Start,Inizia,Iniciar,Démarrer
+Synergy,시너지,버튼,Synergy,シナジー,协同,綜效,Synergy,Sinergia,Sinergia,Synergie
+Weapon,가위,"버튼 (본 게임에서는 평타 = 무기 = 가위 이기 때문에, 무기는 가위라고 통일하여 표기합니다)",Scissors,ハサミ,剪刀,剪刀,Schere,Forbici,Tijeras,Ciseaux
+Setting_Sound_Ambience,환경 소리,설정 창,Ambient Music,環境音,环境音,環境音效,Umgebung,Musica ambientale,Música ambiental,Musique d'ambiance
+Setting_Sound_BGM,배경 음악,설정 창,BGM,BGM,背景音乐,背景音樂,Musik,BGM,Música de fondo,MUSIQUE
+Setting_Sound_Master,전체 음량,설정 창,Master Volume,全体の音量,主音量,所有音量,Hauptlautstärke,Volume master,Volumen principal,Volume principal
+Setting_Sound_OnBackground,백그라운드 시 소리 켜기,설정 창,Sound On When in Background,バックグラウンド時サウンドON,在后台时开启声音,在背景執行時開啟音效,Sound im Hintergund,Suono On quando è in background,Sonido activado en segundo plano,Son activé en arrière-plan
+Setting_Sound_SFX,효과음,설정 창,SFX,効果音,效果音,音效,Effekte,Effetti speciali,Efectos de sonido,EFFETS SONORES
+Setting_Sound_System,시스템,설정 창,System,システム,系统,系統,System,Sistema,Sistema,Système
+Settings_DamageText,피해량 수치 표기,설정 창,Show Damage Values,ダメージ量数値ON,显示伤害数值,顯示傷害量數值,Schadenswerte anzeigen,Mostra valori di danno,Mostrar valor de daño,Afficher les dégâts
+Settings_GraphicQuality,그래픽 품질,설정 창,Graphics Quality,グラフィック品質,图像质量,圖像品質,Grafikqualität,Qualità grafica,Calidad gráfica,Qualité graphique
+Settings_GraphicQuality_High,높음,설정 창,High,高,高,高,Hoch,Alta,Alta,Élevée
+Settings_GraphicQuality_Low,낮음,설정 창,Low,低,低,低,Nierig,Bassa,Baja,Faible
+Settings_GraphicQuality_Middle,중간,설정 창,Mid,中,中,中,Mittel,Media,Media,Moyenne
+Settings_Brightness,밝기,설정 창,Brightness,明るさ,亮度,亮度,Helligkeit,Luminosità,Brillo,Luminosité
+Settings_Contrast,대비,설정 창,Contrast,コントラスト,对比度,對比度,Kontrast,Contrasto,Contraste,Contraste
+Settings_Language,언어,설정 창,Language,言語,语言,語言,Sprache,Lingua,Idioma,Langue
+Settings_SkipStory,스토리 스킵,설정 창,Skip Story,スキップ,跳过故事,略過故事,Geschichte überspringen,Salta storia,Omitir historia,Passer l'histoire
+Settings_Resolution,해상도,설정 창,Resolution,解像度,分辨率,解析度,Auflösung,Risoluzione,Resolución,Résolution
+Settings_Screen,화면,설정 창,Screen,画面,画面,畫面,Bildschirm,Schermo,Pantalla,Affichage
+Settings_Screen_Borderless,전체 창 모드,설정 창,Borderless,ボーダーレス,无边框全屏,全螢幕模式,Rahmenlos,Senza bordi,Sin bordes,Sans bordures
+Settings_Screen_FullScreen,전체 화면,설정 창,Full Screen,フルスクリーン,全屏,全螢幕,Vollbild,Schermo intero,Pantalla completa,Plein écran
+Settings_Screen_Window,창 모드,설정 창,Windowed,ウィンドウモード,窗口模式,視窗模式,Fenster,A finestra,En ventana,Fenêtré
+Settings_TargetFrameRate,목표 프레임,설정 창,Target Frame Rate,ターゲットフレーム,目标帧率,目標幀率,Ziel-Framerate,FPS,Tasa de fotogramas objetivo,Fréquence d'IPS
+Settings_FpsUnlimited,제한 없음,설정 창 / 프레임 옵션,No Limit,制限なし,无限制,無限制,Kein Limit,Illimitati,Sin límite,Aucune limite
+Settings_Vsync,수직 동기화,설정 창,Vsync,垂直同期,垂直同步,垂直同步,VSync,V-Sync,Sincronización vertical,Vsync
+Stat_AttackSpeed,초당 {$a}회,스테이터스 관련,{$a} per sec,{$a}回/秒,每秒{$a}次,每秒{$a}次,{$a} pro Sek.,{$a} al secondo,{$a} por seg.,{$a} par sec
+Stat_CoolTime,{$a} 초,스테이터스 관련,{$a}s,{$a}秒,{$a}秒,{$a}秒,{$a}s,{$a}s,{$a} s,{$a} s
+Stat_Seconds,{$a} 초,스테이터스 관련,{$a}s,{$a}秒,{$a}秒,{$a}秒,{$a}s,{$a}s,{$a} s,{$a} s
+Stat_Damage,"<sprite name=""ATK""> {$a%}",스테이터스 관련,"<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}"
+Stat_DamagePerSecond,"<sprite name=""ATK""> {$a%}",스테이터스 관련,"<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}","<sprite name=""ATK""> {$a%}"
+Stat_MoveSpeed,초당 {$a}m,스테이터스 관련,{$a}m per sec,1秒ごとに{$a}m,每秒{$a}米,每秒{$a}m,{$a}m pro Sek.,{$a}m al secondo,{$a} m por seg.,{$a} min par sec
+Statistics,전투 통계,스테이터스 관련,Combat Stats,バトルの統計,战斗统计,戰鬥統計,Kampfstatistiken,Statistiche combattimento,Estadísticas de combate,Stats de combat
+StatTitle_AttackPower,공격력,스테이터스 관련,ATK,攻撃力,攻击力,攻擊力,ANG,ATT.,ATQ,ATQ
+StatTitle_AttackSpeed,공격 속도,스테이터스 관련,Attack SPD,攻撃速度,攻击速度,攻擊速度,Angriffs-TMP,VEL. d'attacco,VEL de ataque,VIT d'attaque
+StatTitle_Charge,충전 횟수,스테이터스 관련,Charge,チャージ回数,充能次数,畜能次數,Ladung,Carica,Carga,Charge
+StatTitle_CoolTime,쿨타임,스테이터스 관련,Cooldown,クールタイム,冷却时间,冷卻時間,Abklingzeit,Tempo di recupero,Tiempo de recuperación,Temps de recharge
+StatTitle_CriticalDamage,치명타 피해량,스테이터스 관련,Crit DMG,クリティカルダメージ量,暴击伤害,暴擊傷害量,Krit-SCH,Danni critici,Daño crítico,DGT critiques
+StatTitle_Damage,피해량,스테이터스 관련,DMG,ダメージ量,伤害,傷害量,SCH,Danni,Daño,DGT
+StatTitle_DamagePerSecond,초당 피해량,스테이터스 관련,DMG per sec,ダメージ量/秒,每秒伤害,每秒傷害量,SCH pro Sek.,Danni al secondo,Daño por seg.,DGT par seconde
+StatTitle_Duration,지속 시간,스테이터스 관련,Duration,持続時間,持续时间,持續時間,Dauer,Durata,Duración,Durée
+StatTitle_MaxAttackCount,최대 공격 횟수,스테이터스 관련,Max Attack Count,最大攻撃回数,攻击次数上限,最大攻擊次數,Max. Angriffe,Numero massimo di attacchi,N.º de ataques máx.,Attaques max
+StatTitle_MaxHealth,최대 체력,스테이터스 관련,Max HP,最大HP,体力上限,最大體力,Max. LP,PF massimi,PV máx.,PV max
+StatTitle_MaxSpawnCount,최대 소환량,스테이터스 관련,Max Spawn Count,最大召喚量,召唤量上限,最大召喚量,Max. Spawnzahl,Numero massimo di generazioni,N.º de apariciones máx.,Apparitions max
+StatTitle_MaxStack,최대 중첩,스테이터스 관련,Max Stack,最大スタック,叠加上限,最大疊加數,Max. Stapel,Carica massima,Acumulación máx.,Cumuls max
+StatTitle_MoveSpeed,이동 속도,스테이터스 관련,Movement SPD,移動速度,移动速度,移動速度,Bewegungs-TMP,VEL. di movimento,VEL de movimiento,VIT de déplacement
+StatTitle_CriticalNeedHitCount,요구 공격 횟수,스테이터스 관련,Required Attack Count,必要攻撃回数,所需攻击次数,所需攻擊次數,Benötigte Angriffszahl,Numero richiesto di attacchi,Cantidad de ataques necesarios,Nombre d'attaques requis
+StatTitle_MaxCount,최대 보유량,스테이터스 관련,Max Count,最大所持量,最大持有量,最大持有量,Max. Anzahl,Numero massimo,Cantidad máx.,Nombre max
+StatTitle_ObtainRange,획득 범위,스테이터스 관련,Acquisition Range,獲得範囲,获得范围,獲得範圍,Erhaltreichweite,Raggio di acquisizione,Alcance de adquisición,Portée d'obtention
+StatTitle_BurnPerSec,초당 연소량,스테이터스 관련,Burn per sec,延焼量/秒,每秒燃烧量,每秒燃燒量,Verbrennung pro Sek.,Ustione al secondo,Quemadura por segundo,Brûlure par sec
+StatTitle_HomingSpeed,추적 속도,스테이터스 관련,Homing SPD,追跡速度,追踪速度,追蹤速度,Verfolgungs-TMP,VEL. di puntamento,VEL de seguimiento,VIT de poursuite
+Tab_Achievement,업적,현황메뉴 탭,Achievements,実績,成就,成就,Erfolge,Obiettivi,Logros,Succès
+Tab_Control,조작,현황메뉴 탭,Controls,操作,控制,操作,Steuerung,Comandi,Controles,Contrôles
+Tab_Equipment,장비,현황메뉴 탭,Gear,装備,装备,裝備,Ausrüstung,Equipaggiamento,Equipo,Équipement
+Tab_EquipmentCodex,장비 도감,현황메뉴 탭,Gear Book,装備図鑑,装备图鉴,裝備圖鑑,Ausrüstungsbuch,Libro di equipaggiamento,Libro de equipo,Livre d'équipement
+Tab_GamePlay,게임 플레이,현황메뉴 탭,Gameplay,ゲームプレイ,基础,開始遊戲,Gameplay,Gameplay,Sistema de juego,Jeu
+Tab_Graphics,그래픽,현황메뉴 탭,Graphics,グラフィック,图像,圖像,Grafik,Grafica,Gráficos,Graphismes
+Tab_Map,지도,현황메뉴 탭,Map,マップ,地图,地圖,Karte,Mappa,Mapa,Carte
+Tab_Sound,사운드,현황메뉴 탭,Sound,サウンド,声音,聲音,Sound,Suono,Sonido,Son
+Tab_Status,능력치,현황메뉴 탭,Stats,能力値,能力值,能力值,Werte,Statistiche,Estadísticas,Stats
+Tab_Upgrade,강화,현황메뉴 탭,Upgrade,強化,强化,強化,Verbessern,Potenziamento,Mejora,Améliorer
+Agree_Upgrade,강화하시겠습니까?,확인창 - 강화,Would you like to upgrade?,強化しますか？,是否进行强化？,是否進行強化？,Möchtest du verbessern?,Vuoi davvero potenziare?,¿Quieres mejorar?,Procéder à l'amélioration ?
+BossHeal_Heal,체력 `{$healAmount}` 회복,확인창 - 선택지,Recover `{$healAmount}` HP,HP`{$healAmount}`回復,恢复`{$healAmount}`体力,生命力恢復`{$healAmount}`,`{$healAmount}` LP erholen,Recupera `{$healAmount}` PF,Recuperar `{$healAmount}` PV,Récupérer {$healAmount} PV
+BossHeal_Passive,패시브 특성 `1개` 획득,확인창 - 선택지,Get `1` Passive Attribute,パッシブ特性を`1つ`獲得,获得`1个`被动特性,獲得`1個`被動特性,Erhalte `1` passives Attribut,Ottieni `1` attributo passivo,Conseguir `1` atributo pasivo,Obtenir 1 attribut passif
+Agree_DeleteSaveSlot,저장된 데이터를 삭제하시겠습니까?,확인창 - 저장슬롯 선택,Would you like to delete the saved data?,セーブデータを削除しますか？,是否删除存档？,是否刪除儲存資料？,Möchtest du die Speicherdaten löschen?,Vuoi davvero eliminare i dati salvati?,¿Quieres borrar los datos guardados?,Supprimer les données sélectionnées ?
+UpgradeLevel,Lv. {$level},단계에서 다시 Lv로 표기하디로 결정됨,Lv. {$level},Lv. {$level},Lv. {$level},Lv. {$level},Lv. {$level},Lv. {$level},Lv. {$level},Lv. {$level}
+StatTitle_Range,범위,스테이터스 관련,Range,範囲,范围,範圍,Reichweite,Portata,Alcance,Portée
+StatTitle_MaxGauge,게이지 최대치,스테이터스 관련,Max Gauge,ゲージ上限,计量条最大值,計量條最大值,Max. Balken,Barra massima,Medidor máx.,Jauge max
+StatTitle_GaugeRecoverPerSec,게이지 회복량,스테이터스 관련,Gauge Recovery,ゲージ回復量,计量条恢复量,計量條恢復量,Balkenerholung,Recupero barra,Recuperación de medidor,Récupération de jauge
+Stat_GaugePerSec,초당 {$a}%,스테이터스 관련,{$a}% per sec,{$a}%/秒,每秒{$a}%,每秒{$a}%,{$a}% pro Sek.,{$a}% al secondo,{$a}% por seg.,{$a}% par sec
+Stat_Range,{$a} m,스테이터스 관련,{$a}m,{$a}m,{$a}米,{$a} 公尺,{$a} m,{$a} m,{$a} m,{$a} m
+Trait,특성,,Attribute,特性,特性,特性,Attribut,Attributo,Atributo,Attribut
+Story,스토리,,Story,ストーリー,故事,故事,Geschichte,Storia,Historia,Histoire
+Battle,전투,,Battle,バトル,战斗,戰鬥,Kampf,Battaglia,Combate,Bataille
+Obtain,획득,각종 확인창,Acquire,獲得,获得,獲得,Erhalten,Ottieni,Conseguir,Obtenir
+Confirm,확인,각종 확인창,Confirm,確認,确定,確認,Bestätigen,Conferma,Confirmar,Confirmer
+StatGroup_Upgrade,능력치,"플레이어 정보창/캐릭터 정보 스탯그룹
+비고 : 이 행은 Tab_Status 복붙함",Stats,能力値,能力值,能力值,Werte,Statistiche,Estadísticas,Stats
+StatGroup_Needle,바늘,플레이어 정보창/캐릭터 정보 스탯그룹,Needle,針,缝针,細針,Nadel,Ago,Aguja,Aiguille
+StatGroup_WeaponEnhancement,가위 강화,플레이어 정보창/캐릭터 정보 스탯그룹,Whetstone,ハサミ強化,剪刀强化,強化剪刀,Wetzstein,Cote,Piedra de afilar,Pierre à aiguiser
+StatGroup_ScissorCritical,가위 치명타,플레이어 정보창/캐릭터 정보 스탯그룹,Scissor Criticial Hit,ハサミクリティカル,剪刀暴击,剪刀爆擊,Kritischer Scherentreffer,Colpo critico delle forbici,Golpe crítico de tijeras,Coup critique (Ciseaux)
+Tag_Weapon,가위,,Scissors,ハサミ,剪刀,剪刀,Schere,Forbici,Tijeras,Ciseaux
+Tag_Magic,마법,,Magic,魔法,魔法,魔法,Magie,Magia,Magia,Magie
+Tag_Charge,충전,,Charge,チャージ,充能,蓄能,Ladung,Carica,Carga,Charge
+Tag_Cooltime,쿨타임,,Cooldown,クールタイム,冷却时间,冷卻時間,Abklingzeit,Tempo di recupero,Tiempo de recuperación,Temps de recharge
+Tag_Defence,방어,,Defense,防御,防御,防禦,Verteidigung,Difesa,Defensa,Défense
+Tag_Thread,실,,Thread,糸,丝线,線,Faden,Filo,Hilo,Fils
+Tag_Flower,꽃,,Flower,花,花,花,Blume,Fiore,Flor,Fleur
+Tag_Crow,까마귀,,Crow,鴉,乌鸦,烏鴉,Krähe,Corvo,Cuervo,Corbeau
+,,,,,,,,,,
+,,,,,,,,,,
+Agree_ResetUpgrade,"모든 강화를 초기화하시겠습니까?
+(※사용된 재화는 반환됩니다.)",강화 리셋창,Would you like to reset all upgrades? (※ Spent currency will be refunded.),"強化をすべてリセットしますか？
+(※使われた財貨が返却されます)","是否要重置所有强化？
+（※会返还已使用的货币。）","是否重置所有強化？
+ （※將退還已使用的物資。）",Möchtest du alle Verbesserungen zurücksetzen? (※ Ausgegebene Währung wird zurückerstattet.),Vuoi reimpostare tutti i potenziamenti? (※ La valuta spesa verrà rimborsata.),¿Quieres restablecer todas las mejoras? (※ Se devolverá lo gastado).,Réinitialiser toutes les améliorations ? (※ Les devises dépensées ne seront pas remboursées.)

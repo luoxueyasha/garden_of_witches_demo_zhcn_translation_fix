@@ -1,0 +1,11 @@
+name,ko,en,ja,zh-cn,zh-tw,de,it,es-eu,fr
+Player.Active.Weapon.Scissor,가위,Scissors,ハサミ,剪刀,剪刀,Schere,Forbici,Tijeras,Ciseaux
+Player.Active.Evade.Dash,대시,Dash,ダッシュ,突进,猛衝,Sprint,Scatto,Embestida,Ruée
+Player.Active.Magic.ReaperSwing,휩쓸기,Slash,なぎ払い,横扫,劈砍,Schnitt,Fendente,Tajo,Entaille
+Player.Active.Magic.Ambush,기습,Ambush,奇襲,突袭,突襲,Hinterhalt,Agguato,Emboscada,Embuscade
+Player.Active.Magic.CounterAttack,반격,Counter,反撃,反击,反擊,Konter,Contrattacco,Contraataque,Contre-attaque
+Player.Active.Magic.SpawnFamiliar,인형 소환,Summon Doll,人形召喚,人偶召唤,召喚玩偶,Puppe beschwören,Evoca bambola,Invocación de muñeco,Rituel de poupée
+Player.Active.Magic.SpawnTrap,물레바퀴,Sewing Wheel,糸車,纺车,紡車,Spinnrad,Ruota dentata,Rueda giratoria,Rouet
+Player.Active.Magic.ShotNeedle,바늘 발사,Needle Shot,針投げ,缝针射击,發射細針,Nadelschuss,Colpo d'ago,Disparo de aguja,Tir d'aiguille
+Player.Active.Magic.Boost,나비걸음,Butterfly Walk,蝶々歩き,翩翩蝶步,翩翩蝶步,Schmetterlingsweg,Camminata leggiadra,Paseo de mariposa,Valse des papillons
+Player.Active.Magic.SpawnCrow,어둠의 기운,Shadow Surge,闇のオーラ,暗黑气息,暗黑氣息,Dunkle Energie,Energia oscura,Energía oscura,Énergie sombre

@@ -1,0 +1,107 @@
+name,ko,#참고사항,en,ja,zh-cn,zh-tw,de,it,es-eu,fr
+Needle,바늘,,Needle,針,缝针,細針,Nadel,Ago,Aguja,Aiguille
+Needle.Info,"적에게 날아가 피해를 주고, 대상의 체력을 `실`로 묶습니다.
+(기본 피해량 : <sprite name=""ATK"">`{$NeedleDamage:0.##%}`)",,"Flies towards the enemy to inflict damage and tie up the target's HP with `Thread`.
+(Base Damage: <sprite name=""ATK"">`{$NeedleDamage:0.##%}`)","敵に向かって飛んでダメージを与え、対象のHPを`糸`で縛ります。
+(基本ダメージ量：<sprite name=""ATK"">`{$NeedleDamage:0.##%}`)","飞向敌人造成伤害，并用`丝线`束缚目标的体力。
+（基础伤害：<sprite name=""ATK"">`{$NeedleDamage:0.##%}`）","飛向敵人造成傷害，以`線`束縛目標的體力。
+（基本傷害量：<sprite name=""ATK"">`{$NeedleDamage:0.##%}`）","Fliegt auf den Gegner zu, um Schaden zu verursachen und die LP des Ziels mit `Faden` zu binden.
+(Grundschaden: <sprite name=""ATK"">`{$NeedleDamage:0.##%}`)","Vola verso il nemico per infliggere danni e legare i PF del bersaglio con `Filo`.
+(Danni di base: <sprite name=""ATK"">`{$NeedleDamage:0.##%}`)","Vuela hacia el enemigo para infligir daño y atar los PV del objetivo con un `hilo`.
+(Daño básico: <sprite name=""ATK"">`{$NeedleDamage:0.##%}`).","Vole vers l'ennemi pour infliger des dégâts et lie les PV de la cible à un `fil`.
+(Dégâts de base : <sprite name=""ATK"">`{$NeedleDamage:0.##%}`)"
+Thread,실,,Thread,糸,线,線,Faden,Filo,Hilo,Fils
+Thread.Info,"대상의 최대 체력이 `실`에 묶인 만큼 감소합니다.
+(기본 최대 중첩 : `{$ThreadMaxStack}`)",,"Decreases Max HP of target according to how much `Thread` they are tied up with.
+(Base Max Stack: `{$ThreadMaxStack}`)","対象の最大HPが`糸`で縛られた分だけ減少します。
+(基本最大スタック：`{$ThreadMaxStack}`)","依`丝线`的束缚数量而减少目标的体力上限。
+（基础叠加上限：`{$ThreadMaxStack}`）","目標的最大體力因`線`的束縛而減少。
+（基本最大疊加：`{$ThreadMaxStack}`）","Verringert die Maximal-LP des Ziels entsprechend der Anzahl der `Fäden`, mit denen es belegt ist.
+(Max. Grundstapel: `{$ThreadMaxStack}`)","Diminuisce i PF massimi del bersaglio in base alla quantità di `Filo` a cui sono legati.
+(Cariche massime di base: `{$ThreadMaxStack}`)","Disminuye los PV máx según la cantidad de `hilos` con los que estén atados.
+(Acumulación máx. inicial: `{$ThreadMaxStack}`).","Réduit les PV max de la cible selon le nombre de `fils` auxquels elle est liée.
+(Limite de fils de base : `{$ThreadMaxStack}`)"
+Crow,까마귀,,Crow,カラス,乌鸦,烏鴉,Krähe,Corvo,Cuervo,Corbeau
+Crow.Info,"가까운 적을 일정 횟수 공격하고 제거됩니다.
+(기본 피해량 : <sprite name=""ATK"">`{$CrowDamage:0.##%}`)
+(기본 공격 횟수 : `{$CrowAttackCount}`)",,"Attacks the nearest enemy a set number of times before disappearing.
+(Base Damage: <sprite name=""ATK"">`{$CrowDamage:0.##%}`)
+(Base No. of Attacks: `{$CrowAttackCount}`)","近くの敵を一定回数攻撃して消えます。
+(基本ダメージ量：<sprite name=""ATK"">`{$CrowDamage:0.##%}`)
+(基本攻撃回数：`{$CrowAttackCount}`)","攻击最近的敌人一定次数后消失。
+（基础伤害量：<sprite name=""ATK"">`{$CrowDamage:0.##%}`）
+（基础攻击次数：`{$CrowAttackCount}`）","攻擊最近的敵人一定次數後消失。
+（基本傷害量：<sprite name=""ATK"">`{$CrowDamage:0.##%}`）
+（基本攻擊次數：`{$CrowAttackCount}`）","Greift den nächstgelegenen Gegner eine bestimmte Anzahl von Malen an, bevor er verschwindet.
+(Grundschaden: <sprite name=""ATK"">`{$CrowDamage:0.##%}`)
+(Anz. Grundangriffe: `{$CrowAttackCount}`)","Attacca il nemico più vicino per un determinato numero di volte prima di scomparire.
+(Danni di base: <sprite name=""ATK"">`{$CrowDamage:0.##%}`)
+(Numero di attacchi di base: `{$CrowAttackCount}`)","Ataca al enemigo más cercano cierta cantidad de veces antes de desaparecer.
+(Daño básico: <sprite name=""ATK"">`{$CrowDamage:0.##%}`).
+(N.º de ataques inicial: `{$CrowAttackCount}`).","Attaque l'ennemi le plus proche un certain nombre de fois, puis disparaît.
+(Dégâts de base : <sprite name=""ATK"">`{$CrowDamage:0.##%}`)
+(Attaques de base : `{$CrowAttackCount}`)"
+Flower,꽃,,Flower,花,花,花,Blume,Fiore,Flor,Fleur
+Flower.Info,"`씨앗`이 떨어지면 `1초` 뒤 자라나, `3초`에 걸쳐 완전히 피어납니다.
+완전히 피어난 `꽃`은 적이 밟으면 폭발하고 시듭니다.
+폭발하지 못한 `꽃`은 유지시간이 지나면 시듭니다.
+(기본 피해량 : <sprite name=""ATK"">`{$SeedDamage:0.##%}`)
+(기본 유지 시간 : `{$FlowerDuration}초`)",,"When a `Seed` falls, it grows `1s` later and fully blooms over `3s`.
+When an enemy steps on a fully bloomed `Flower`, the `Flower` explodes and withers.
+If a `Flower` does not explode before its duration ends, it withers.
+(Base Damage: <sprite name=""ATK"">`{$SeedDamage:0.##%}`)
+(Base Duration: `{$FlowerDuration}s`)","`種`が落ちると`1秒`後に育ち、`3秒`かけて満開になります。
+満開になった`花`は、敵に踏まれると爆発して枯れます。
+爆発しなかった`花`は、維持時間が過ぎると枯れます。
+(基本ダメージ量：<sprite name=""ATK"">`{$SeedDamage:0.##%}`)
+(基本維持時間：`{$FlowerDuration}秒`)","`花种`落下后会在`1秒`后长成，`3秒`后绽放。
+绽放的`花`被敌人踩到时会爆炸并枯萎，
+未爆炸的`花`则会持续一段时间后枯萎。
+（基础伤害量：<sprite name=""ATK"">`{$SeedDamage:0.##%}`）
+（基础持续时间：`{$FlowerDuration}秒`）","`種子`落下`1秒`後成長，`3秒`後完全綻放。
+完全綻放的`花`會在被敵人踩到時爆炸並枯萎，
+未爆炸的`花`會持續一段時間後枯萎。
+（基本傷害量：<sprite name=""ATK"">`{$SeedDamage:0.##%}`）
+（基本持續時間：`{$FlowerDuration}秒`）","Wenn ein `Samen` fällt, wächst er `1s` später und blüht innerhalb von `3s` vollständig auf.
+Wenn ein Gegner auf eine voll erblühte `Blume` tritt, explodiert die `Blume` und verwelkt.
+Wenn eine `Blume` nicht explodiert, bevor ihre Dauer endet, verwelkt sie.
+(Grundschaden: <sprite name=""ATK"">`{$SeedDamage:0.##%}`)
+(Grunddauer: `{$FlowerDuration}s`)","Quando un `Seme` cade, cresce dopo `1s` e sboccia completamente nell'arco di `3s`.
+Quando un nemico calpesta un `Fiore` completamente sbocciato, il `Fiore` esplode e appassisce.
+Se un `Fiore` non esplode prima della fine della sua durata, appassisce.
+(Danni di base: <sprite name=""ATK"">`{$SeedDamage:0.##%}`)
+(Durata di base: `{$FlowerDuration}s`)","Cuando cae una `semilla`, crece `1 s` más tarde y florece en `3 s`.
+Si un enemigo pisa una `flor` florecida por completo, esta explota y se marchita.
+Si una `flor` no explota antes de que termine su duración, se marchita.
+(Daño básico: <sprite name=""ATK"">`{$SeedDamage:0.##%}`).
+(Duración inicial: `{$FlowerDuration} s`).","Lorsqu'une `graine` tombe, elle germe après `1 s` et s'épanouit après `3 s`.
+Lorsqu'un ennemi marche sur une `fleur` épanouie, celle-ci explose et flétrit.
+Si la `fleur` n'explose pas après un certain temps, elle flétrit.
+(Dégâts de base : <sprite name=""ATK"">`{$SeedDamage:0.##%}`)
+(Durée de base : `{$FlowerDuration} s`)"
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+Shield,보호막,,Shield,バリア,防护罩,保護罩,Schild,Scudo,Escudo,Bouclier
+Shield.Info,체력을 대신하여 피해를 흡수합니다.,,Absorbs damage instead of losing HP.,HPの代わりにダメージを吸収します。,代替体力值吸收伤害。,吸收傷害以保護體力。,"Absorbiert Schaden, anstatt LP zu verlieren.",Assorbe i danni invece di perdere PF.,Absorbe el daño en vez de perder PV.,Absorbe les dégâts et empêche de perdre des PV.
+WeaponEnhancement,가위 강화,,Whetstone,ハサミ強化,剪刀强化,強化剪刀,Wetzstein,Cote,Piedra de afilar,Pierre à aiguiser
+WeaponEnhancement.Info,"`가위 강화`의 중첩량 만큼 가위의 피해량이 증가합니다.
+(기본 최대 중첩 : `{$WeaponEnhancementMaxStack}%`)
+(기본 지속 시간 : `{$WeaponEnhancementDuration}초`)",,"Increases the damage of Scissors by `Whetstone` percent.
+(Base Max Stack: `{$WeaponEnhancementMaxStack}%`)
+(Base Duration: `{$WeaponEnhancementDuration}s`)","`ハサミ強化`のパーセント分、ハサミのダメージ量が増加します。
+(基本最大スタック：`{$WeaponEnhancementMaxStack}%`)
+(基本持続時間：`{$WeaponEnhancementDuration}秒`)","根据`剪刀强化`的百分比增加剪刀的伤害量。
+（基础叠加上限：`{$WeaponEnhancementMaxStack}%`）
+（基础持续时间：`{$WeaponEnhancementDuration}秒`）","根據`強化剪刀`的百分比增加剪刀的傷害量。
+（基本最大疊加：`{$WeaponEnhancementMaxStack}%`）
+（基本持續時間：`{$WeaponEnhancementDuration}秒`）","Erhöht den Schaden der Schere um den Prozentsatz des `Wetzstein`.
+(Max. Grundstapel: `{$WeaponEnhancementMaxStack}%`)
+(Grunddauer: `{$WeaponEnhancementDuration}s`)","Aumenta i danni delle Forbici della percentuale di `Cote`.
+(Cariche massime di base: `{$WeaponEnhancementMaxStack}%`)
+(Durata di base: `{$WeaponEnhancementDuration}s`)","Aumenta el daño de las tijeras según el porcentaje de `piedra de afilar`.
+(Acumulación máx. inicial: `{$WeaponEnhancementMaxStack}%`).
+(Duración inicial: `{$WeaponEnhancementDuration} s`).","Augmente les dégâts des Ciseaux du pourcentage de `pierre à aiguiser`.
+(Limite de base : `{$WeaponEnhancementMaxStack}%`)
+(Durée de base : `{$WeaponEnhancementDuration} s`)"

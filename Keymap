@@ -1,0 +1,25 @@
+name,ko,#참고사항,en,ja,zh-cn,zh-tw,de,it,es-eu,fr
+Move,이동,,Move,移動,移动,移動,Bewegen,Muoviti,Mover,Se déplacer
+Select,선택,,Select,選択,选择,選擇,Auswählen,Seleziona,Seleccionar,Sélectionner
+Cancel,취소,,Cancel,取消,取消,取消,Abbrechen,Annulla,Cancelar,Annuler
+Delete,삭제,,Delete,削除,删除,刪除,Löschen,Cancella,Borrar,Supprimer
+MoveTab,탭 이동,,Move Tab,タブ移動,移动标签,標籤移動,Reiter verschieben,Cambia scheda,Cambiar pestaña,Déplacer l'onglet
+ResetSetting,설정 초기화,,Reset Settings,設定初期化,重置设置,重置設定,Einstellungen zurücksetzen,Ripristina impostazioni,Restablecer ajustes,Réinitialiser les paramètres
+ResetAllSetting,모든 설정 초기화,,Reset All Settings,全設定初期化,重置所有设置,重置所有設定,Alle Einstellungen zurücksetzen,Ripristina tutte le impostazioni,Restablecer todos los ajustes,Tout réinitialiser
+SkillDetail,스킬 자세히 보기,,Skill Detail,スキル詳細,技能详情,查看技能詳情,Fertigkeitsdetails,Dettagli abilità,Detalles de habilidad,Détails de la compétence
+Back,돌아가기,,Back,戻る,返回,返回,Zurück,Indietro,Volver,Retour
+Next,다음,,Next,次へ,下一页,下一頁,Weiter,Avanti,Siguiente,Suivant
+Previous,이전,,Previous,前へ,上一页,上一頁,Zurück,Precedente,Anterior,Précédent
+Confirm,확인,,Confirm,確認,确认,確認,Bestätigen,Conferma,Confirmar,Confirmer
+TraitDetail,특성 상세 보기,,Attribute Detail,特性詳細,特性详情,查看特性詳情,Attributsdetails,Dettagli attributi,Detalles de atributos,Détail de l'attribut
+CloseWindow,창 닫기,,Close Window,閉じる,关闭窗口,關閉視窗,Fenster schließen,Chiudi finestra,Cerrar ventana,Fermer la fenêtre
+MovePage,페이지 이동,,Move Page,ページ移動,翻页,頁面移動,Seite verschieben,Cambia pagina,Cambiar página,Changer de page
+GetReward,보상 받기,,Get Reward,報酬受取,领取奖励,領取獎勵,Belohnung erhalten,Ottieni ricompensa,Obtener recompensa,Obtenir la récompense
+Exit,나가기,,Exit,出る,离开,離開,Verlassen,Esci,Salir,Quitter
+Upgrade,강화,,Upgrade,強化,强化,強化,Verbessern,Potenzia,Mejorar,Améliorer
+ResetUpgrade,강화 초기화,,Reset Upgrades,強化リセット,重置强化,重置強化,Verbesserungen zurücksetzen,Reimposta potenziamenti,Restablecer mejoras,Réinitialiser les améliorations
+StorySkip,스토리 스킵,,Skip Story,スキップ,跳过故事,略過故事,Geschichte überspringen,Salta storia,Omitir historia,Passer l'histoire
+Attack,공격,,Attack,攻撃,攻击,攻擊,Angriff,Attacco,Ataque,Attaque
+Dash,대시,,Dash,ダッシュ,突进,猛衝,Sprint,Scatto,Embestida,Ruée
+Magic,마법,,Magic,魔法,魔法,魔法,Zauber,Incantesimo,Hechizo,Sort
+MoveStick,이동,,Move,移動,移动,移動,Bewegen,Muoviti,Mover,Se déplacer
